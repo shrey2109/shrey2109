@@ -6,11 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey2109&label=Profile%20views&color=0e75b6&style=flat" alt="shrey2109" /> </p>
 
+<!-- 
 - 🔭 I’m currently working on **BookMark**
 
 - 🌱 I’m currently learning **Backend**
+-->
 
-- 💬 Ask me about **Problem solving questions(Data structures and algorithms), react, MERN**
+- 💬 Ask me about **Problem solving questions(Data structures and algorithms), React, MERN**
 
 - 📫 How to reach me **spparikh2109@gmail.com**
 
